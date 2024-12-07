@@ -1,0 +1,17 @@
+dados de codigo python sendo armazenados em arquivo TXT:
+
+
+Sequencia de numeros aleatorios:
+9 12 2 3 1 7 8 10 14 0 5 13 4 6 11 
+
+Sequencia de numeros aleatorios:
+1 7 9 12 4 3 5 14 13 8 6 0 2 11 10 
+
+Sequencia de numeros aleatorios:
+11 0 6 7 3 2 9 8 14 12 5 1 4 13 10 
+
+Sequencia de numeros aleatorios:
+7 1 12 3 11 13 8 5 0 14 6 9 4 10 2 
+
+Sequencia de numeros aleatorios:
+1 0 2 3 4 

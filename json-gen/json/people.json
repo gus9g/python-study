@@ -1,0 +1,250 @@
+{
+  "teste":[
+     {
+        "cover":"./images/dragonball.png",
+        "mos":"season",
+        "name":"Dragon Ball",
+        "url":"http://www.animeskai.com/6"
+     },
+     {
+        "cover":"./images/dragonballz.png",
+        "mos":"season",
+        "name":"Dragon Ball Z",
+        "url":"http://www.animesorion.org/5500"
+     },
+     {
+        "cover":"./images/dragonballzkai.png",
+        "mos":"season",
+        "name":"Dragon Ball Z Kai",
+        "url":"http://www.animeskai.com/635"
+     },
+     {
+        "cover":"./images/dragonballsuper.png",
+        "mos":"season",
+        "name":"Dragon Ball Super",
+        "url":"https://www.animalog.online/animes-dublados/dragon-ball-super-dublado-online/"
+     },
+     {
+        "cover":"./images/dragonballsuperleg.png",
+        "mos":"season",
+        "name":"Dragon Ball Super - Leg",
+        "url":"https://assistindoanimesonline.info/229765"
+     },
+     {
+        "cover":"./images/dragonballheroes.png",
+        "mos":"season",
+        "name":"Dragon Ball Heroes",
+        "url":"http://www.centraldeanimes.biz/dragon-ball-heroess-dublado-online/"
+     },
+     {
+        "cover":"./images/dragonballabsalon.png",
+        "mos":"season",
+        "name":"Dragon Ball Absalon - Leg",
+        "url":"https://www.animesorion.video/60692"
+     },
+     {
+        "cover":"./images/onepiece.png",
+        "mos":"season",
+        "name":"One Piece",
+        "url":"https://www.animep.net/video/23797"
+     },
+     {
+        "cover":"./images/cavaleirosdozodiaco.png",
+        "mos":"season",
+        "name":"Cavaleiros do Zodíaco",
+        "url":"https://assistindoanimesonline.info/64789"
+     },
+     {
+        "cover":"./images/narutoclassic.png",
+        "mos":"season",
+        "name":"Naruto Classic",
+        "url":"https://www.animesonlinebr.com.br/dublados/572"
+     },
+     {
+        "cover":"./images/narutoshippuden.png",
+        "mos":"season",
+        "name":"Naruto Shippuden",
+        "url":"https://www.animesonlinebr.com.br/dublados/5044"
+     },
+     {
+        "cover":"./images/breakingbad.png",
+        "mos":"season",
+        "name":"Breaking Bad",
+        "url":"http://www.brseries.com/assistir-serie-breaking-bad/"
+     },
+     {
+        "cover":"./images/pokemonindigoleague.png",
+        "mos":"season",
+        "name":"Pokemon:  Indigo League",
+        "url":"https://www.animesonlinetk.info/15401"
+     },
+     {
+        "cover":"./images/pokemonaoi.png",
+        "mos":"season",
+        "name":"Pokemon: Original - Adventures on the Orange Islands",
+        "url":"https://www.animesonlinetk.info/15405"
+     },
+     {
+        "cover":"./images/pokemonjj.png",
+        "mos":"season",
+        "name":"Pokemon: Original - The Johto Journeys",
+        "url":"https://www.animesonlinetk.info/15408"
+     },
+     {
+        "cover":"./images/pokemonjlc.png",
+        "mos":"season",
+        "name":"Pokemon: Original - Johto League Champions",
+        "url":"https://www.animesonlinetk.info/15411"
+     },
+     {
+        "cover":"./images/pokemonmq.png",
+        "mos":"season",
+        "name":"Pokemon: Original - Master Quest",
+        "url":"https://www.animesonlinetk.info/15902"
+     },
+     {
+        "cover":"./images/pokemonadvanced.png",
+        "mos":"season",
+        "name":"Pokemon: Advanced Generation - Advanced",
+        "url":"http://portal.animazone.com.br/2012/04/pokemon-6-temporada-avancado-advanced.html"
+     },
+     {
+        "cover":"./images/pokemonac.png",
+        "mos":"season",
+        "name":"Pokemon: Advanced Generation - Advanced Challenge",
+        "url":"https://www.animesonlinetk.info/15909"
+     },
+     {
+        "cover":"./images/pokemonab.png",
+        "mos":"season",
+        "name":"Pokemon: Advanced Generation - Advanced Battle",
+        "url":"https://www.pokemon.com/br/episodios-pokemon/temporadas-da-tv-pokemon/temporada-8/"
+     },
+     {
+        "cover":"./images/pokemonbf.png",
+        "mos":"season",
+        "name":"Pokemon: Advanced Generation - Battle Frontier",
+        "url":"https://www.animesonlinetk.info/16501"
+     },
+     {
+        "cover":"./images/pokemondiamondandpearl.png",
+        "mos":"season",
+        "name":"Pokemon: Diamond & Pearl - Diamond and Pearl",
+        "url":"http://portal.animazone.com.br/2012/04/pokemon-10-temporada-diamante-e-perola.html"
+     },
+     {
+        "cover":"./images/pokemondpbd.png",
+        "mos":"season",
+        "name":"Pokemon: DP - Battle Dimension",
+        "url":"http://portal.animazone.com.br/2012/04/pokemon-11-temporada-dp-battle.html"
+     },
+     {
+        "cover":"./images/pokemondpgb.png",
+        "mos":"season",
+        "name":"Pokemon: DP - Galactic Battles",
+        "url":"https://www.pokemon.com/br/episodios-pokemon/temporadas-da-tv-pokemon/temporada-12/"
+     },
+     {
+        "cover":"./images/pokemondpslv.png",
+        "mos":"season",
+        "name":"Pokemon: DP - Sinnoh League Victors",
+        "url":"http://portal.animazone.com.br/2012/04/pokemon-13-temporada-dp-sinnoh-league.html"
+     },
+     {
+        "cover":"./images/pokemonblackandwhite.png",
+        "mos":"season",
+        "name":"Pokemon: Best Wishes - Black and  White",
+        "url":"http://portal.animazone.com.br/2012/04/pokemon-14-temporada-black-white-best.html"
+     },
+     {
+        "cover":"./images/pokemonbwrd.png",
+        "mos":"season",
+        "name":"Pokemon: BW - Rival Destinies",
+        "url":"http://www.redecanais.com/browse-15-temporada-destinos-rivais-pokemon-videos-1-date.html"
+     },
+     {
+        "cover":"./images/pokemonbwaiu.png",
+        "mos":"season",
+        "name":"Pokemon: BW - Adventures in Unova",
+        "url":"http://www.redecanais.com/browse-16-temporada-pokemon-aventuras-em-unova-videos-1-date.html"
+     },
+     {
+        "cover":"./images/pokemonbwaiuab.png",
+        "mos":"season",
+        "name":"Pokemon: BW - Adventures in Unova and Beyond",
+        "url":"http://www.pokemonfire.com/season-16-black-white-adventures-in-unova-and-beyond/"
+     },
+     {
+        "cover":"./images/pokemonxy.png",
+        "mos":"season",
+        "name":"Pokemon: XY",
+        "url":"http://assistindoanimesonline.com/?p=69607"
+     },
+     {
+        "cover":"./images/pokemonxykq.png",
+        "mos":"season",
+        "name":"Pokemon: XY - Kalos Quest",
+        "url":"http://pkmdublado.blogspot.com.br/p/temporada-18.html"
+     },
+     {
+        "cover":"./images/pokemonxyz.png",
+        "mos":"season",
+        "name":"Pokemon: XY - XYZ",
+        "url":"http://www.animesorion.org/60392"
+     },
+     {
+        "cover":"./images/pokemonsam.png",
+        "mos":"season",
+        "name":"Pokemon: Sun and Moon",
+        "url":"http://assistindoanimesonline.com/?p=206186"
+     },
+     {
+        "cover":"./images/kevinpodeesperar.png",
+        "mos":"season",
+        "name":"Kevin Can Wait",
+        "url":"http://gatoflix.com/assistir-episodio-online-em-hd/kevin-pode-esperar-1x1/"
+     },
+     {
+        "cover":"./images/reiarthur.png",
+        "mos":"movie",
+        "name":"Rei Arthur",
+        "url":"http://www.pipocao.com/assistir-rei-arthur-dublado-online-720p-brrip/"
+     },
+     {
+        "cover":"./images/annabelle2.png",
+        "mos":"movie",
+        "name":"Annabelle 2: A Criação do Mal",
+        "url":"https://www.popfilmeshd.net/assistir-filme/annabelle-2-a-criacao-do-mal/"
+     },
+     {
+        "cover":"./images/toc.png",
+        "mos":"movie",
+        "name":"TOC: Transtornada Obsessiva Compulsiva",
+        "url":"https://www.popfilmeshd.net/assistir-filme/toc-transtornada-obsessiva-compulsiva/"
+     },
+     {
+        "cover":"./images/tepegonasaida.png",
+        "mos":"movie",
+        "name":"Te Pego na Saída",
+        "url":"http://www.pipocao.com/assistir-te-pego-na-saida-dublado-online-1080p-brrip/"
+     },
+     {
+        "cover":"./images/thisistheend.png",
+        "mos":"movie",
+        "name":"É o Fim",
+        "url":"http://www.filmesonlinehd7.cc/assistir-online-e-o-fim-hd-720p-blu-ray/"
+     },
+     {
+        "cover":"./images/the-young-sheldon.jpg",
+        "mos":"season",
+        "name":"O Jovem Sheldon",
+        "url":"http://filmeseseriesonline.net/young-sheldon/"
+     },
+     {
+        "cover":"https://img1.ak.crunchyroll.com/i/spire2/743b1abd76bc4fbe9b6df5427a0d08fb1459904360_full.jpg",
+        "mos":"season",
+        "name":"Sailor Moon",
+        "url":"https://www.animalog.online/animes-legendados/bishoujo-senshi-sailor-moon/"
+     }
+  ]
+}

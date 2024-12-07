@@ -1,0 +1,1 @@
+print("Testes automatizados")

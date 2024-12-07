@@ -1,0 +1,52 @@
+Atenção
+Certifique-se que voce possui um ambiente local de banco de dados MySQL...
+
+Alem do Banco de Dados sera necessario ter instalado a API-MySQL-Python:
+https://dev.mysql.com/downloads/connector/python/
+
+
+Instale a biblioteca do MySQL para o python executando o comando PIP: pip install mysql-connector-python
+
+
+Banco de Dados...: MySQL
+Database Name....: cotacao_db
+Tabela...........: produto
+campos...........: id_produto int(255) auto_increment primary key, 
+					nome_produto varchar(255), 
+					link_produto varchar(255), 
+					preco_produto float(255, 2), 
+					data_cotacao_produto datetime, 
+					mensagem_produto varchar(255)
+
+Execute os seguintes comandos para gerar a tabela no banco de dados:
+-- ---------------------------------
+use cotacao_db;
+
+create table produto (id_produto int(255) auto_increment primary key, 
+					nome_produto varchar(255), 
+					link_produto varchar(255), 
+					preco_produto float(255, 2), 
+					data_cotacao_produto datetime, 
+					mensagem_produto varchar(255));
+-- ---------------------------------
+
+Ao gerar backup do banco de dados, será gerado um arquivo com a data do dia com extensão (.csv), este arquivo sera separado por virgula.
+
+
+-------------------------------------
+Para teste execute o seguinte insert
+-- ----------------------------------
+use cotacao_db;
+
+INSERT INTO cotacao_db.produto (nome_produto
+							   ,link_produto
+							   ,preco_produto
+							   ,data_cotacao_produto
+							   ,mensagem_produto)
+VALUES('Placa de Video', 'http://teste.html', 100.99, '2011-12-18 11:00:20', 'Inicio da Analise do produto');
+
+					
+-- ---------------------------------
+
+
+

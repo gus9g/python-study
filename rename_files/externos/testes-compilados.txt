@@ -1,0 +1,13 @@
+Unity 5 
+
+metodos input
+https://satellasoft.com/artigo/unity-3d/mover-personagem-com-unity-3d
+
+Método
+
+Função
+GetKey() - Enquanto a tecla especificada estiver sendo pressionada.
+
+GetKeyDown() - Quando pressionar a tecla.
+
+GetKEyUp() - Quando soltar uma tecla.
